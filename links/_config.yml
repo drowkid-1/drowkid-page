@@ -1,0 +1,145 @@
+# YOUR NAME OR TITLE OF YOUR SITE
+name: DrowKid
+
+# YOUR BRAND/PERSONAL TAGLINE
+tagline:  soy disque desarrollador y programador, pero nomas le hago a la mamada
+
+
+# YOUR/BRAND IMAGE URL
+Image_URL: https://avatars.githubusercontent.com/u/127297730?v=4
+
+# CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
+Cover_Image: https://picsum.photos/1080?nocache=
+
+# SOCIAL MEDIA
+links:
+
+  # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
+    
+    # Pag
+  - Name: Página Web
+    URL: 'https://drowkid.bswc.net'
+    Icon-Class: fa-solid fa-globe
+    Color: '#ffffff'
+    Text_Color: '#000000'
+
+    # INSTAGRAM
+  - Name: Instagram
+    URL: https://www.instagram.com
+    Username: lalo_01dk
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-instagram
+
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: drowkid01
+    Color: '#6e5494'
+    Icon-Class: fab fa-github
+
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:support@drowkid.bswc.net'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
+
+    # MESSENGER
+  - Name: Messenger
+    URL: https://m.me
+    Username: drowkid01
+    Color: '#006AFF'
+    Icon-Class: fab fa-facebook-messenger
+
+  #   # WHATSAPP
+  # - Name: WhatsApp
+  #   URL: https://wa.me
+  #   Username: '+1123456789'
+  #   Color: '#25d366'
+  #   Icon-Class: fab fa-whatsapp
+
+    # TELEGRAM
+  - Name: Telegram
+    URL: http://telegram.me
+    Username: drowkid01
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
+
+  #   # DISCORD
+  # - Name: Discord
+  #   URL: 'https://discord.gg'
+  #   Username: 
+  #   Icon-Class: fab fa-discord
+  #   Color: '#5865F2'
+  #   Text_Color: '#ffffff'
+
+    # PINTEREST
+  - Name: Pinterest
+    URL: https://pinterest.com
+    Username: ''
+    Color: '#E60023'
+    Icon-Class: fab fa-pinterest
+
+  #   # DRIBBBLE
+  # - Name: Dribbble
+  #   URL: https://dribbble.com
+  #   Username: 
+  #   Color: '#ea4c89'
+  #   Icon-Class: fab fa-dribbble
+
+    # SPOTIFY
+  - Name: Spotify
+    URL: http://open.spotify.com/user
+    Username: 
+    Color: '#1DB954'
+    Icon-Class: fab fa-spotify
+
+    # SOUNDCLOUD
+  - Name: SoundCloud
+    URL: https://www.soundcloud.com
+    Username: 
+    Color: '#FE5000'
+    Icon-Class: fab fa-soundcloud
+    
+  #    # TIKTOK
+  # - Name: TikTok
+  #   URL: https://www.tiktok.com
+  #   Username: drowkid01
+  #   Color: '#FE2C55'
+  #   Icon-Class: fab fa-tiktok
+
+    # CUSTOM LINK
+  - Name: Blog 
+    URL: https://drowkid.vercel.pub
+    Icon-Class: fas fa-link
+    Color: '#ffb142'
+    Text_Color: '#ffffff'
+
+# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
+footer: 'Yes'
+
+# STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
+
+# Compress
+compress_html:
+  clippings: all
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Icon
+
+# Base URL
+# baseurl: /links
+
+# Default Markdown Engine
+markdown: kramdown
